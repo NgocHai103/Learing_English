@@ -27,3 +27,7 @@ o		This one is too big and too loose
 o		Oh, Then would you like try to something else
 o		Yes, I would like to try some shoes, too. This is my favorite design and color. Let’s see if they fit.
 o		They fit perfectly.But I afraid they are too expensive.
+o		They fit perfectly.But I afraid they are too expensive. 
+o		I forgot to mention we have a discount  at these shoes just today.
+o		Oh, I’m glad to hear that. I’ll take them.
+
